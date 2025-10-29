@@ -9,3 +9,6 @@ python manage.py runserver
 register app
 register ulr
 create urls.py
+
+
+python manage.py runserver
